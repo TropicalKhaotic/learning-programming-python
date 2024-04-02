@@ -7,4 +7,3 @@ resultado = peso/altura*altura
 
 #Resultado do Calculo
 print("Seu IMC é:", resultado)
-
